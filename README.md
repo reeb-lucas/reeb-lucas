@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About Me
 - 🔭 Working on developing a desktop remoting software in C# with a couple classmates
 - 🎓 Studying Software Engineering and Applied Mathematics at Oregon Institute of Technology
-- 🌱 Learning Networking, Language and Compiler Development, and Javascript
+- 🌱 Learning JavaScript, Operating System Development, and MiniKube
 
 ### 🛠 Tech Stack
 - 💻 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) ![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=C-Sharp&logoColor=00A36C)
