@@ -1,9 +1,9 @@
-### Hello, I'm Tyler Lucas
+### Hello, I'm Reeb T. Lucas
 
 ### 👨🏻‍💻 About Me
-- 🔭 Working on developing a desktop remoting software in C# with a couple classmates
+- 🔭 Working at BD as a DevOps Engineering Intern
 - 🎓 Studying Software Engineering and Applied Mathematics at Oregon Institute of Technology
-- 🌱 Learning JavaScript, Operating System Development, and MiniKube
+- 🌱 Learning K8s, Helm, AWS, Terraform
 
 ### 🛠 Tech Stack
 - 💻 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) ![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=C-Sharp&logoColor=00A36C)
