@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About Me
 - 🔭 Working at BD as a DevOps Engineering Intern
 - 🎓 Studying Software Engineering and Applied Mathematics at Oregon Institute of Technology
-- 🌱 Learning Terraform, Javascript, and Russian
+- 🌱 Learning Terraform, Go, and Russian
 
 ### 🛠 Some Languages and Tools I Use
 <p align="left">
